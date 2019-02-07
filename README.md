@@ -1,6 +1,4 @@
 # SocialCops-Data-Science-Task
-SocialCops-Data-Science-Task
-# SocialCops-Data-Science-Task
 SocialCops | Data Science Task 
 Challenge 1: Agriculture Commodities, Prices & Seasons
 
